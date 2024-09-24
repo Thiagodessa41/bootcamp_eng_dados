@@ -6,8 +6,6 @@ curso is nome_curso
 
 curso is not nome_curso
 
-
-
 saldo = 1000
 limite = 1000
 

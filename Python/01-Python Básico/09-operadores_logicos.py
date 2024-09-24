@@ -18,7 +18,6 @@ not contatos_emergencia
 
 not "saque 1500;"
 
-
 not ""
 
 # Cenário de sistema bancário
