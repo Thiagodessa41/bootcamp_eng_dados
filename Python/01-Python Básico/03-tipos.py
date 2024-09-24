@@ -1,0 +1,10 @@
+print(1+10-2)
+print(1.5+2)
+print(1.8+2.2)
+print(True)
+print(False)
+print('Python')
+
+int()
+float()
+str('string')
