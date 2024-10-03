@@ -158,4 +158,4 @@ class Deposito(Transacao):
         sucesso_transacao = conta.depositar(self.valor)
 
         if sucesso_transacao:
-            conta.historico.adicionar_transacao(self)        
+            conta.historico.adicionar_transacao(self)       
