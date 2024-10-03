@@ -29,12 +29,12 @@ class Bicicleta:
 b1 = Bicicleta("vermelha", "caloi", 2022, 600)
 
 # acessando métodos
-# b1.buzinar()
-# b1.correr()
-# b1.parar()
+b1.buzinar()
+b1.correr()
+b1.parar()
 
 # acessar atributos da classe
 print(b1.cor, b1.modelo, b1.ano, b1.valor)
 
-b2 = Bicicleta("verde", "monark", 2000, 189)
-print(b2)
+# b2 = Bicicleta("verde", "monark", 2000, 189)
+# print(b2)
